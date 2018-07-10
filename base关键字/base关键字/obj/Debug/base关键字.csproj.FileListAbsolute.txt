@@ -1,0 +1,6 @@
+D:\Documents\GitHub\Vanilla's exercises\base关键字\base关键字\bin\Debug\base关键字.exe.config
+D:\Documents\GitHub\Vanilla's exercises\base关键字\base关键字\bin\Debug\base关键字.exe
+D:\Documents\GitHub\Vanilla's exercises\base关键字\base关键字\bin\Debug\base关键字.pdb
+D:\Documents\GitHub\Vanilla's exercises\base关键字\base关键字\obj\Debug\base关键字.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\Vanilla's exercises\base关键字\base关键字\obj\Debug\base关键字.exe
+D:\Documents\GitHub\Vanilla's exercises\base关键字\base关键字\obj\Debug\base关键字.pdb
