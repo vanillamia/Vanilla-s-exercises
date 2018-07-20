@@ -1,0 +1,6 @@
+D:\Documents\GitHub\Vanilla's exercises\2.随机10个学生的初始数值\2.随机10个学生的初始数值\bin\Debug\2.随机10个学生的初始数值.exe.config
+D:\Documents\GitHub\Vanilla's exercises\2.随机10个学生的初始数值\2.随机10个学生的初始数值\obj\Debug\2.随机10个学生的初始数值.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\Vanilla's exercises\2.随机10个学生的初始数值\2.随机10个学生的初始数值\bin\Debug\2.随机10个学生的初始数值.exe
+D:\Documents\GitHub\Vanilla's exercises\2.随机10个学生的初始数值\2.随机10个学生的初始数值\bin\Debug\2.随机10个学生的初始数值.pdb
+D:\Documents\GitHub\Vanilla's exercises\2.随机10个学生的初始数值\2.随机10个学生的初始数值\obj\Debug\2.随机10个学生的初始数值.exe
+D:\Documents\GitHub\Vanilla's exercises\2.随机10个学生的初始数值\2.随机10个学生的初始数值\obj\Debug\2.随机10个学生的初始数值.pdb

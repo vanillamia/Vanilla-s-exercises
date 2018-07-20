@@ -1,0 +1,6 @@
+D:\Documents\GitHub\Vanilla's exercises\1.随机获得10个学生的等级\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Documents\GitHub\Vanilla's exercises\1.随机获得10个学生的等级\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Documents\GitHub\Vanilla's exercises\1.随机获得10个学生的等级\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\Documents\GitHub\Vanilla's exercises\1.随机获得10个学生的等级\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Documents\GitHub\Vanilla's exercises\1.随机获得10个学生的等级\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Documents\GitHub\Vanilla's exercises\1.随机获得10个学生的等级\ConsoleApplication2\obj\Debug\1.随机获得10个学生的等级.csprojResolveAssemblyReference.cache
